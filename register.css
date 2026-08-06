@@ -1,0 +1,27 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+    background-color: #3a3a3a; 
+}
+
+
+#background {
+    background-color: blue;
+    border-radius: 20px;
+    padding: 40px; 
+    color: white; 
+    text-align: center; 
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px; /* Gives it slightly rounded corners */
+    margin-bottom: 20px; /* Adds the gap between the title and the form */
+}
